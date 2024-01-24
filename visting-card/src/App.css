@@ -1,0 +1,12 @@
+.container{
+   width: 300px;
+   margin: 50px auto;
+   background-color: rgb(5, 166, 112);
+   padding: 60px;
+   border-radius: 20px;
+   text-align: center;
+}
+
+.one{
+  margin-bottom:10px;
+}
